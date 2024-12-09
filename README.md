@@ -1,4 +1,5 @@
-" Retro snake game"
+            " Retro snake game"
+
              ** Introduction**
  Step into the past with the retro snake game, a timeless classic that's 
 as addictive as it is simple. Guide your snake through a maze, gobbling 
