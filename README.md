@@ -12,7 +12,7 @@ late 1970s and gained massive popularity in the 1990s with the
 introduction of Nokia mobile phones. Players control a snake that 
 grows in length as it consumes food pellets. The game is 
 characterized by its simple graphics and addictive gameplay.
-Aim and Object
+            **Aim and Object**
  The goal of the game is to guide the snake to eat as many food pellets as 
 possible without colliding with obstacles or itself. As the snake consumes 
 food, it grows longer, making navigation more challenging. The ultimate 
@@ -26,7 +26,7 @@ wall or the snake's own body.
  IDE: Visual Studio, Code::Blocks, Atom
  Version Control: Git
  Sound and Music Tools: Audacity
-Work plan for the project
+            **Work plan for the project**
  Week 1: Project Planning and Setup
  Week 2-3: Core Game Mechanics
  Week 4-5: Graphics and User Interface
